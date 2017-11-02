@@ -1,0 +1,21 @@
+{
+  "name": "webxmz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.sinacloud.com/webxmz"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "koa": "^2.3.0",
+    "request": "^2.83.0",
+    "sha1": "^1.1.1"
+  }
+}
